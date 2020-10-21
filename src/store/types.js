@@ -1,0 +1,16 @@
+// 匹配全部的 actions  mutations
+
+export const SAVE_USERINFO = "SAVE_USERINFO";
+
+export const RECEIVE_MENU_LIST = "RECEIVE_MENU_LIST";
+
+export const PERMS_LIST = "PERMS_LIST";
+
+export const LOGIN_INFO = "LOGIN_INFO";
+
+export const QUALITY_CHECKLIST = "QUALITY_CHECKLIST";
+
+export const ROMOVE_QUALITY_CHECKLIST = "ROMOVE_QUALITY_CHECKLIST";
+
+export const SAVFORMDATA = "SAVFORMDATA";
+export const REMOVE_FORMDATA = "REMOVE_FORMDATA";

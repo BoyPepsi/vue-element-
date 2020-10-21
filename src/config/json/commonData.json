@@ -1,0 +1,418 @@
+{
+  "subcontractList": [
+    {
+      "value": "1",
+      "name": "桩基单位"
+    },
+    {
+      "value": "2",
+      "name": "门窗单位"
+    },
+    {
+      "value": "3",
+      "name": "消防单位"
+    },
+    {
+      "value": "4",
+      "name": "弱电单位"
+    },
+    {
+      "value": "5",
+      "name": "园林单位"
+    },
+    {
+      "value": "6",
+      "name": "幕墙单位"
+    },
+    {
+      "value": "7",
+      "name": "栏杆百叶窗单位"
+    },
+    {
+      "value": "8",
+      "name": "暖通单位"
+    },
+    {
+      "value": "9",
+      "name": "电梯单位"
+    },
+    {
+      "value": "10",
+      "name": "人防单位"
+    }
+  ],
+  "tmp2TypeList": [
+    {
+      "value": "1",
+      "name": "因天气原因，现场无人施工"
+    },
+    {
+      "value": "2",
+      "name": "应政府要求，现场暂停施工"
+    },
+    {
+      "value": "3",
+      "name": "现场存在隐患，暂停施工"
+    }
+  ],
+  "waterproofConstruction": [
+    {
+      "value": "1",
+      "name": "地下室区块"
+    },
+    {
+      "value": "2",
+      "name": "楼栋号"
+    }
+  ],
+  "rafBarBaselMeasured": [
+    {
+      "id": "1",
+      "label": "筏板钢筋骨架高度（面层面筋到底层底筋外表面距离）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "底层钢筋网间距实测（X、Y向各两个点，拉尺长度为10档间隔）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "3",
+      "label": "面层钢筋网间距实测（X、Y向各两个点，拉尺长度为10档间隔）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "basementWallMeasured": [
+    {
+      "id": "1",
+      "label": "框柱、暗柱箍筋间距实测（拉尺长度为5档间隔）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "剪力墙钢筋网间距实测（X、Y向各两个点，拉尺长度为5档间隔）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "basementBeamMeasured": [
+    {
+      "id": "1",
+      "label": "框架梁端箍筋加密区长度实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "框架梁箍筋外边缘高度实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "3",
+      "label": "楼板钢筋网片骨架间距实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "4",
+      "label": "板面、板底钢筋网间距实测（X、Y向各两个点，拉尺长度为5档间隔）（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "mainStructureWallRebalMeasured": [
+    {
+      "id": "1",
+      "label": "框柱、暗柱箍筋间距实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "剪力墙钢筋网间距实测(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "mainStructureWallRebalMeasured2": [
+    {
+      "id": "1",
+      "label": "框架梁端箍筋加密区长度实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "框架梁端箍筋加密区长度实测（mm）",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "3",
+      "label": "楼板钢筋网片骨架间距实测(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "4",
+      "label": "板面、板底钢筋网间距实测(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "mainStructureWallRebalMeasured3": [
+    {
+      "id": "1",
+      "label": "垂直度(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "2",
+      "label": "平整度(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    },
+    {
+      "id": "3",
+      "label": "洞口尺寸(mm)",
+      "word1": "",
+      "word2": "",
+      "word3": "",
+      "word4": "",
+      "fileList": []
+    }
+  ],
+  "raiseList": [
+    {
+      "index": "1号",
+      "label1": "标养",
+      "label2": "抗渗",
+      "label3": "同条件",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "condition": "",
+      "isCheck": "1"
+    },
+    {
+      "index": "2号",
+      "label1": "标养",
+      "label2": "抗渗",
+      "label3": "同条件",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "condition": "",
+      "isCheck": "1"
+    },
+    {
+      "index": "3号",
+      "label1": "标养",
+      "label2": "抗渗",
+      "label3": "同条件",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "condition": "",
+      "isCheck": "1"
+    }
+  ],
+
+  "mainStructureRaiseList": [
+    {
+      "index": "1号",
+      "label1": "标养试块组数",
+      "label2": "同条件试块组数",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "isCheck": "1"
+    },
+    {
+      "index": "2号",
+      "label1": "标养试块组数",
+      "label2": "同条件试块组数",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "isCheck": "1"
+    },
+    {
+      "index": "3号",
+      "label1": "标养试块组数",
+      "label2": "同条件试块组数",
+      "label4": "混凝土强度低于设计要求",
+      "label5": "累计浇筑方量（m³）",
+      "cumulative": "",
+      "standard": "",
+      "penetration": "",
+      "isCheck": "1"
+    }
+  ],
+  "questionTypeList": [
+    {
+      "label": "质量问题",
+      "value": "1"
+    },
+    {
+      "label": "安全问题",
+      "value": "2"
+    },
+    {
+      "label": "进度问题",
+      "value": "3"
+    }
+  ],
+
+  "tagTypeList": [
+    {
+      "label": "巡查中",
+      "value": "1"
+    },
+    {
+      "label": "检查中",
+      "value": "2"
+    }
+  ],
+  "processList": [
+    {
+      "label": "钢筋",
+      "value": "钢筋"
+    },
+    {
+      "label": "混凝土",
+      "value": "混凝土"
+    },
+    {
+      "label": "模板",
+      "value": "模板"
+    },
+    {
+      "label": "桩基",
+      "value": "桩基"
+    },
+    {
+      "label": "土方",
+      "value": "土方"
+    },
+    {
+      "label": "基坑支护",
+      "value": "基坑支护"
+    },
+    {
+      "label": "砌体",
+      "value": "砌体"
+    },
+    {
+      "label": "抹灰",
+      "value": "抹灰"
+    },
+    {
+      "label": "墙地砖",
+      "value": "墙地砖"
+    },
+    {
+      "label": "地面工程",
+      "value": "地面工程"
+    },
+    {
+      "label": "保温",
+      "value": "保温"
+    },
+    {
+      "label": "吊顶",
+      "value": "吊顶"
+    },
+    {
+      "label": "石材幕墙",
+      "value": "石材幕墙"
+    },
+    {
+      "label": "栏杆",
+      "value": "栏杆"
+    },
+    {
+      "label": "玻璃幕墙",
+      "value": "玻璃幕墙"
+    },
+    {
+      "label": "门窗",
+      "value": "门窗"
+    },
+    {
+      "label": "涂料",
+      "value": "涂料"
+    },
+    {
+      "label": "防水",
+      "value": "防水"
+    }
+  ]
+}
